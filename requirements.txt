@@ -1,0 +1,13 @@
+yfinance
+pandas 
+numpy  
+matplotlib 
+seaborn 
+scikit-learn 
+tensorflow
+sqlalchemy
+pymysql 
+streamlit 
+python-dotenv
+
+
